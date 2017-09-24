@@ -1,0 +1,12 @@
+D:\Project\CssSelector\CssSelector.Common\bin\Debug\CssSelector.Common.dll
+D:\Project\CssSelector\CssSelector.Common\bin\Debug\CssSelector.Common.pdb
+D:\Project\CssSelector\CssSelector.Common\obj\Debug\CssSelector.Common.csprojResolveAssemblyReference.cache
+D:\Project\CssSelector\CssSelector.Common\obj\Debug\CssSelector.Common.dll
+D:\Project\CssSelector\CssSelector.Common\obj\Debug\CssSelector.Common.pdb
+D:\Project\CssSelector\CssSelector.Common\bin\Debug\MongoDB.Bson.dll
+D:\Project\CssSelector\CssSelector.Common\bin\Debug\MongoDB.Driver.Core.dll
+D:\Project\CssSelector\CssSelector.Common\bin\Debug\MongoDB.Driver.dll
+D:\Project\CssSelector\CssSelector.Common\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Project\CssSelector\CssSelector.Common\bin\Debug\MongoDB.Bson.xml
+D:\Project\CssSelector\CssSelector.Common\bin\Debug\MongoDB.Driver.xml
+D:\Project\CssSelector\CssSelector.Common\bin\Debug\MongoDB.Driver.Core.xml

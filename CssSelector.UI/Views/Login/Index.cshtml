@@ -1,0 +1,25 @@
+﻿@model CssSelector.UI.Models.UserModel
+@{
+    ViewBag.Title = "Inter";
+}
+<script src="~/Scripts/LoginPage/LoginPage.js"></script>
+<div class="loginBlock">
+    @using (Html.BeginForm("Index","Login",FormMethod.Post,new Dictionary<string, object>{{"id","loginForm"}}))
+    {
+        @Html.LabelFor(model => model.Email, "Enter Email");
+        @Html.TextBoxFor(model => model.Email);
+        @Html.ValidationMessageFor(model=>model.Email);
+        @Html.TextBoxFor(model => model.Password);
+        @Html.ValidationMessageFor(model => model.Password);
+        <div class="form-group">
+            <div class="loginButtom">
+                <input type="submit" value="Login" class="btn btn-default" />
+            </div>
+            <div class="registrationButtom">
+                <input type="button" value="Registration" class="btn btn-default" onclick="onClick" />
+            </div>
+        </div>
+    }
+</div>
+
+

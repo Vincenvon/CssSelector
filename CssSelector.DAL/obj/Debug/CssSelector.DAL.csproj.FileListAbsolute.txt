@@ -1,0 +1,14 @@
+D:\Project\CssSelector\CssSelector.DAL\bin\Debug\CssSelector.DAL.dll
+D:\Project\CssSelector\CssSelector.DAL\bin\Debug\CssSelector.DAL.pdb
+D:\Project\CssSelector\CssSelector.DAL\bin\Debug\CssSelector.Common.dll
+D:\Project\CssSelector\CssSelector.DAL\bin\Debug\MongoDB.Bson.dll
+D:\Project\CssSelector\CssSelector.DAL\bin\Debug\MongoDB.Driver.Core.dll
+D:\Project\CssSelector\CssSelector.DAL\bin\Debug\MongoDB.Driver.dll
+D:\Project\CssSelector\CssSelector.DAL\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Project\CssSelector\CssSelector.DAL\bin\Debug\CssSelector.Common.pdb
+D:\Project\CssSelector\CssSelector.DAL\bin\Debug\MongoDB.Bson.xml
+D:\Project\CssSelector\CssSelector.DAL\bin\Debug\MongoDB.Driver.xml
+D:\Project\CssSelector\CssSelector.DAL\bin\Debug\MongoDB.Driver.Core.xml
+D:\Project\CssSelector\CssSelector.DAL\obj\Debug\CssSelector.DAL.csprojResolveAssemblyReference.cache
+D:\Project\CssSelector\CssSelector.DAL\obj\Debug\CssSelector.DAL.dll
+D:\Project\CssSelector\CssSelector.DAL\obj\Debug\CssSelector.DAL.pdb
